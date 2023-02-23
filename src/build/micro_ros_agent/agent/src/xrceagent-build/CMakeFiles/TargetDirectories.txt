@@ -1,0 +1,7 @@
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/install/strip.dir
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/install/local.dir
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/install.dir
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/list_install_components.dir
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/rebuild_cache.dir
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/edit_cache.dir
+/home/mediapipe/Desktop/ros_workspaces/microros_ws/src/build/micro_ros_agent/agent/src/xrceagent-build/CMakeFiles/microxrcedds_agent.dir
